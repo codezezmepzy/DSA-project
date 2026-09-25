@@ -1,7 +1,7 @@
 # DSA-project
 # 🎬 Movie Watchlist Organizer
 
-A modular, menu-driven console application developed in **Standard C** as an S3 B.Tech Computer Science Engineering mini-project (following the KTU 2024 scheme). This project demonstrates the practical application of fundamental **Data Structures and Algorithms (DSA)** to solve a real-world media organization problem.
+A modular, menu-driven console application developed in **Standard C**. This project demonstrates the practical application of fundamental **Data Structures and Algorithms (DSA)** to solve a real-world media organization problem.
 
 ---
 
